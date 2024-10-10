@@ -2,7 +2,7 @@
 
 ## Week 1: Foundations and Basic Algorithms
 
-### Day 1: Introduction to Algorithms and Complexity
+### [Day 1: Introduction to Algorithms and Complexity](Day 1 - Introduction to Algorithms and Complexity.md)
 - Understand what algorithms are and why they're important
 - Learn about time and space complexity (Big O notation)
 
